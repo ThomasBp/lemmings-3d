@@ -1,0 +1,23 @@
+Start...POPULATION Num 0
+chrom 80 * score 113 ** (106,BUILD) - (278,BUILD) - (360,BUILD) - (385,BUILD)
+chrom 81 * score 113 ** (26,BUILD) - (265,BUILD) - (349,BUILD) - (379,BUILD) - (398,BUILD)
+chrom 82 * score 113 ** (39,BUILD) - (56,BUILD) - (106,BUILD) - (250,BUILD) - (478,BUILD)
+chrom 83 * score 113 ** (285,BUILD) - (299,BUILD) - (416,BUILD)
+chrom 84 * score 113 ** (107,BUILD) - (227,BUILD)
+chrom 85 * score 113 ** (120,BUILD) - (145,BUILD) - (282,BUILD) - (283,BUILD) - (301,BUILD)
+chrom 86 * score 113 ** (127,BUILD) - (147,BUILD) - (223,BUILD) - (338,BUILD) - (343,BUILD) - (366,BUILD)
+chrom 87 * score 113 ** (31,BUILD) - (132,BUILD) - (331,BUILD)
+chrom 88 * score 113 ** (130,BUILD) - (160,BUILD) - (166,BUILD) - (239,BUILD) - (342,BUILD) - (356,BUILD) - (441,BUILD) - (456,BUILD)
+chrom 89 * score 113 ** (85,BUILD) - (124,BUILD) - (206,BUILD) - (213,BUILD) - (221,BUILD) - (262,BUILD) - (277,BUILD) - (295,BUILD) - (410,BUILD)
+chrom 90 * score 113 ** (214,BUILD) - (309,BUILD) - (377,BUILD) - (390,BUILD)
+chrom 91 * score 113 ** (19,BUILD) - (266,BUILD)
+chrom 92 * score 113 ** (251,BUILD) - (307,BUILD) - (429,BUILD)
+chrom 93 * score 113 ** (55,BUILD) - (157,BUILD)
+chrom 94 * score 113 ** (1,BUILD) - (149,BUILD) - (186,BUILD) - (212,BUILD) - (263,BUILD) - (298,BUILD) - (410,BUILD)
+chrom 95 * score 113 ** (195,BUILD) - (255,BUILD)
+chrom 96 * score 113 ** (31,BUILD) - (33,BUILD) - (194,BUILD) - (262,BUILD) - (393,BUILD) - (446,BUILD)
+chrom 97 * score 113 ** (30,BUILD) - (440,BUILD) - (449,BUILD)
+chrom 98 * score 140 ** (33,BUILD) - (70,BUILD) - (247,BUILD) - (253,BUILD) - (382,BUILD) - (419,BUILD)
+chrom 99 * score 140 ** (33,BUILD) - (81,BUILD) - (150,BUILD) - (162,BUILD) - (239,BUILD) - (296,BUILD) - (326,BUILD) - (429,BUILD)
+
+
